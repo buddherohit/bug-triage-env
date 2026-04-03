@@ -5,7 +5,6 @@ A real-world reinforcement learning environment where AI agents learn to triage 
 Built for **OpenEnv Hackathon – Round 1**
 
 ---
-
 # 📌 Overview
 
 Bug triage is a common real-world software engineering task. This environment simulates bug triage workflow where an AI agent learns to:
